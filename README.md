@@ -116,10 +116,16 @@ I'm always excited to collaborate on innovative data science challenges!
 
 <div align="center">
   
-![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyadhole&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadhole&layout=compact&langs_count=8&theme=tokyonight)
+<a href="https://github.com/Divyadhole">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyadhole&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadhole&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Divyadhole&theme=tokyonight&hide_border=false)
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyadhole&theme=tokyo-night&hide_border=true)
 
 </div>
 
