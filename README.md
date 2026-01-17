@@ -9,36 +9,19 @@
 
 ### 🧬 About Me
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Divya Dhole"
-        self.role = "Data Scientist & ML Engineer"
-        self.education = "MS in Data Science @ University of Arizona 🎓"
-        self.graduation = "December 2025"
-        self.location = "Tucson, AZ 🌵"
-        self.passion = "Transforming healthcare through intelligent data systems"
-        
-    def current_focus(self):
-        return [
-            "🧠 Exploring LLMs & Generative AI in biomedical research",
-            "☁️ Building scalable ML pipelines on cloud platforms",
-            "📊 Creating predictive models that save lives",
-            "🚀 Contributing to open-source data science tools"
-        ]
-    
-    def skills(self):
-        return {
-            "languages": ["Python", "R", "SQL", "Java"],
-            "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-Learn"],
-            "visualization": ["Power BI", "Tableau", "Plotly", "Seaborn"],
-            "cloud": ["AWS", "Azure"],
-            "specialties": ["Statistical Modeling", "Predictive Analytics", "NLP", "GenAI"]
-        }
-    
-    def fun_fact(self):
-        return "I've analyzed millions of genomic records and love finding patterns in chaos! 🧬"
-```
+I'm a Data Scientist and ML Engineer passionate about transforming healthcare through intelligent data systems. Currently completing my MS in Data Science at the University of Arizona (December 2025), I specialize in building end-to-end ML solutions—from processing millions of genomic records to creating predictive models that drive real-world impact.
+
+**What drives me:** I love finding patterns in complex datasets and turning them into actionable insights that make a difference. Whether it's optimizing resource planning by 25% through genomic data analysis or forecasting security trends across 500K+ records, I thrive on solving challenging problems at the intersection of data science and human impact.
+
+**Currently exploring:**
+- 🧠 LLMs & Generative AI applications in biomedical research
+- ☁️ Scalable ML pipelines on cloud platforms (AWS, Azure)
+- 📊 Predictive models for healthcare and safety operations
+- 🚀 Open-source data science tools and collaboration
+
+**My toolkit:** Python, R, SQL • PyTorch, TensorFlow, Scikit-Learn • Power BI, Tableau, Plotly • AWS, Azure • Statistical Modeling, Predictive Analytics, NLP, GenAI
+
+**Fun fact:** I've analyzed millions of genomic records and discovered that the best insights often hide in the messiest data! 🧬
 
 ---
 
@@ -132,12 +115,12 @@ I'm always excited to collaborate on innovative data science challenges!
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyadhole&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadhole&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+  
+![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyadhole&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadhole&layout=compact&langs_count=8&theme=tokyonight)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyadhole&theme=tokyonight" alt="GitHub Streak"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Divyadhole&theme=tokyonight&hide_border=false)
+
 </div>
 
 ---
