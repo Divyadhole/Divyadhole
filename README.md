@@ -155,3 +155,10 @@ I'm passionate about projects that combine:
   ⭐️ From [Divyadhole](https://github.com/Divyadhole)
   
 </div>
+
+  
+  <br>
+  
+  ![Footer Animation](./507331223-54dc1f7a-f327-43ab-ae9c-58c7421eee39.gif)
+  
+ </div>
