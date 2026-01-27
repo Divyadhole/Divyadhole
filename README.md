@@ -9,7 +9,7 @@
 
 ### 🧬 About Me
 
-I'm a Data Scientist and ML Engineer passionate about transforming healthcare through intelligent data systems. Currently completing my MS in Data Science at the University of Arizona (December 2025), I specialize in building end-to-end ML solutions—from processing millions of genomic records to creating predictive models that drive real-world impact.
+I'm a Data Scientist and ML Engineer passionate about transforming healthcare through intelligent data systems. Currently completing my MS in Data Science at the University of Arizona (December 2025), I specialize in building end-to-end ML solutions from processing millions of genomic records to creating predictive models that drive real-world impact.
 
 **What drives me:** I love finding patterns in complex datasets and turning them into actionable insights that make a difference. Whether it's optimizing resource planning by 25% through genomic data analysis or forecasting security trends across 500K+ records, I thrive on solving challenging problems at the intersection of data science and human impact.
 
