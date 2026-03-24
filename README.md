@@ -64,32 +64,6 @@
 
 </div>
 
----
-
-### `> ./sprint_status.sh`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║          ⚡  40 PROJECTS / 20 DAYS SPRINT  ⚡            ║
-╠══════════════════════════════════════════════════════════╣
-║  Progress  [██████████░░░░░░░░░░░░░░░░░░░░]  10 / 40   ║
-║  Day       [██████░░░░░░░░░░░░░░░░░░░░░░░░]   6 / 20   ║
-║                                                          ║
-║  DATA SOURCES USED:  BLS · EPA · FRED · Census           ║
-║                      DEA · CDC · USDA                    ║
-║                                                          ║
-║  ALL PROJECTS HAVE  →  Live Dashboard                    ║
-║                     →  Python Pipeline                   ║
-║                     →  SQL Analysis                      ║
-║                     →  Excel Workbook                    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-[![Portfolio Live](https://img.shields.io/badge/🌐_VIEW_ALL_PROJECTS-divyadhole.github.io-D4F564?style=for-the-badge&labelColor=050507)](https://divyadhole.github.io)
-
-</div>
 
 ---
 
