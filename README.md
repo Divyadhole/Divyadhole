@@ -21,7 +21,7 @@
 ```
 
 [![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-divyadhole.github.io-D4F564?style=for-the-badge&labelColor=050507&color=D4F564)](https://divyadhole.github.io)
-[![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divya)
+[![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyadhole/
 [![Email](https://img.shields.io/badge/▶_HIRE_ME-Open_to_Work-22c55e?style=for-the-badge)](mailto:divya.dhole@arizona.edu)
 
 </div>
@@ -103,7 +103,7 @@
 ┌──────────────────────────────────────────────────┐
 │  📍  Tucson, AZ · OPT Available                  │
 │  📧  divya.dhole@arizona.edu                     │
-│  🔗  linkedin.com/in/divya                       │
+│  🔗  linkedin.com/in/divyadhole/
 │  🌐  divyadhole.github.io                        │
 │  ✅  Open to Data Analyst / Data Scientist roles  │
 └──────────────────────────────────────────────────┘
